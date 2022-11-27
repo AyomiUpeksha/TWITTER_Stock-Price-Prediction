@@ -97,7 +97,7 @@ varM1
 VarM.ser <- restrict(varM1, method = "ser")
 VarM.ser
 
-#### Checking the model adequacy #### Error occured
+#### Checking the model adequacy #### 
 serial.test(VarM.ser,lags.pt = 12)
 
 forecast(varM1, h=14)
