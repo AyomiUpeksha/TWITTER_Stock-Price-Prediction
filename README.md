@@ -1,4 +1,4 @@
-# Stock-Price-Prediction
+# Stock-Price-Prediction &#128176;&#128200;
 
 <p> Twitter Daily Stock Prices 2013-2022
 <p> source : https://www.kaggle.com/datasets/amandam1/twitter-daily-stock-prices-20132022
